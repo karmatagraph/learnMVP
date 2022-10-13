@@ -94,6 +94,8 @@ fastlane/test_output
 iOSInjectionProject/
 
 ### Xcode ###
+APIKey.swift
+
 
 ## Xcode 8 and earlier
 
